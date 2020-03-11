@@ -1,2 +1,4 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
-second line of text. Bogus entry I think
+<<<<<<< Updated upstream
+second line of text. Bogus entry I think Bogus.
+
